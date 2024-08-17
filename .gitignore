@@ -1,0 +1,11 @@
+# MacOS
+.DS_Store
+
+# IPython
+.ipynb_checkouts
+
+# Python
+*.egg-info
+.pytest_cache
+__pycache__
+venv
