@@ -19,3 +19,11 @@ To start the GROBID service run `make grobid-run` in a shell (runs with `docker 
 
 Ensure that the current `JAVA_HOME` is set to [OpenJDK 17](https://openjdk.org/projects/jdk/17/). On arm64 machines,
 `make grobid && make grobid-run` will run GROBID from source.
+
+## Notebooks
+
+Run the notebooks with `jupyter-lab`. Make sure to select the ipykernel installed with `make bootstrap`.
+
+## Resouces
+
+1. https://github.com/JSchoonmaker/PDF-Text-Extraction/

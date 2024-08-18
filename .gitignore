@@ -2,7 +2,7 @@
 build
 
 # IPython
-.ipynb_checkouts
+.ipynb_checkpoints
 
 # MacOS
 .DS_Store
