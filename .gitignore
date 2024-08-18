@@ -1,8 +1,11 @@
-# MacOS
-.DS_Store
+# Build
+build
 
 # IPython
-.ipynb_checkouts
+.ipynb_checkpoints
+
+# MacOS
+.DS_Store
 
 # Python
 *.egg-info
