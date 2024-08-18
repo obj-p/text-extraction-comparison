@@ -1,1 +1,2 @@
+grobid-client-python==0.0.8
 ipykernel==6.29.5
