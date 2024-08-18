@@ -27,3 +27,7 @@ Run the notebooks with `jupyter-lab`. Make sure to select the ipykernel installe
 ## Resouces
 
 1. https://github.com/JSchoonmaker/PDF-Text-Extraction/
+2. https://python.langchain.com/v0.1/docs/modules/data_connection/document_loaders/pdf/
+3. https://python.langchain.com/v0.1/docs/integrations/providers/grobid/
+4. https://github.com/run-llama/llama_parse
+5. https://medium.com/kx-systems/rag-llamaparse-advanced-pdf-parsing-for-retrieval-c393ab29891b
