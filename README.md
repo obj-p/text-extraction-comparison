@@ -8,7 +8,10 @@
 
 ## Devcontainer
 
-The [.devcontainer](.devcontainer) is a WIP.
+The [.devcontainer](.devcontainer) is a WIP. It's currently in-progress as there is more to consider with the container
+setup. For example, the user is the root in the container so certain invocations carry extra concerns.
+
+> jupyter-lab --allow-root
 
 ## GROBID
 
